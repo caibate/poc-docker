@@ -1,4 +1,4 @@
-package com.docker.demodocker;
+package com.docker.demodocker.resource;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
